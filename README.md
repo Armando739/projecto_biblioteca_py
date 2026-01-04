@@ -68,4 +68,4 @@ Este sistema pode ser usado em:
 - Sistemas de recomendação de livros
 - Catálogos de livros em instituições educacionais
 
-https://github.com/anvimaa/projecto_biblioteca_py.git
+https://github.com/Armando739/projecto_biblioteca_py.git
